@@ -7,8 +7,7 @@
 ---
 
 ### 🌟 About Me  
-
-![Creative GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+<img align="right" height="250" width="375" alt="Coding GIF" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif">
 
 I'm a **Computer Science** major and **Art** minor at the University of Richmond 🎓, with a passion for blending creativity and technology. Whether it’s building user-friendly web apps, creating immersive digital art, or managing innovative products, I love tackling challenges with curiosity and flair.  
 
