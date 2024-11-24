@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-hart/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ellen.hart@richmond.edu)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=html5&logoColor=white)]([https://yourportfolio.com](https://ellenchart.github.io/
-))
+)
 
 ---
 
