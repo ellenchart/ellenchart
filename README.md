@@ -35,11 +35,27 @@ I'm a **Computer Science** major and **Art** minor at the University of Richmond
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellenhart&show_icons=true&theme=radical&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenhart&theme=radical&layout=compact&langs_count=8&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellenhart&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ellen Hart's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ellenhart&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🏆 Achievements  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ellenhart&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophies"/>
+</div>
+
+---
+
+## 📂 Most Used Languages  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenhart&theme=radical&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages"/>
 </div>
 
 ---
