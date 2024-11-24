@@ -19,8 +19,8 @@ I'm a **Computer Science** major and **Art** minor at the University of Richmond
 
 ---
 
-### 🛠️ Tools & Technologies  
-
+### 🧰 Languages and Tools 🧰
+  
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
@@ -42,6 +42,7 @@ I'm a **Computer Science** major and **Art** minor at the University of Richmond
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ellenhart&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
 
+<!---
 ---
 
 ## 🏆 Achievements  
@@ -59,6 +60,7 @@ I'm a **Computer Science** major and **Art** minor at the University of Richmond
 </div>
 
 ---
+-->
 
 ### 🤩 Fun Facts  
 
