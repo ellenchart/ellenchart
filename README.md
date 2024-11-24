@@ -1,9 +1,8 @@
 ## Hi there! <a href="https://yourwebsite.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> I'm Ellen Hart! 🎨💻  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-hart/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ellen.hart@richmond.edu)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=html5&logoColor=white)]([https://yourportfolio.com](https://ellenchart.github.io/
-)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellen.hart@richmond.edu)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=html5&logoColor=white)](https://ellenchart.github.io/)
 
 ---
 
@@ -49,7 +48,7 @@ I'm a **Computer Science** major and **Art** minor at the University of Richmond
 
 - 🎯 My mantra: *“Creativity fuels innovation!”*  
 - 📜 I’ve worked on projects blending **art and coding** like creating a website with hidden stories and curating digital exhibitions.  
-- 🌍 Excited to study abroad in Hong Kong and explore **international art and technology**.  
+- 🌍 Excited to study abroad in Seoul, South Korea.
 
 ---
 
