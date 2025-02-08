@@ -1,4 +1,4 @@
-## Hi there! <a href="https://yourwebsite.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> I'm Ellen Hart! 🎨💻  
+## Hi there! <a href="https://yourwebsite.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> I'm Ellen Hart!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-hart/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellen.hart@richmond.edu)
